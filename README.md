@@ -16,14 +16,9 @@
 8. #User inputing the choice among them
 
 9. # if choice ==1
- --Enter the student name
+-Enter the student name
  -Enter the student no
- -Enter the marks for Math
- -Enter the marks for Science
- -Enter the marks for English
- -Enter the marks for Computer
- -Enter the marks for Social
- -Enter the marks for Nepali
+ -Enter the subjects
  -calculating the total
  -calculating the average
 
